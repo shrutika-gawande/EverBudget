@@ -2,7 +2,7 @@
 
 **EverBudget** is a full-stack web application that helps users track their income and expenses, manage budgets, and visualize spending patterns over time.
 
-🚀 Features
+##🚀 Features
 - ✅ User registration and login (secure auth)
 - ✅ Add and categorize income/expense entries
 - ✅ Monthly budgeting and comparison
